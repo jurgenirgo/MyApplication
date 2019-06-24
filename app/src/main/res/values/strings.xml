@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="share">share</string>
+    <string name="favorite">favorite</string>
+    <string name="nama_keajaiban">Christ the Redeemer, Rio de Janeiro Brasil, </string>
+    <string name="deskripsi_keajaiban">Christ the Redeemer atau Patung Kristus Penebus adalah sebuah Patung Yesus yang berada di atas gunung Corcovado Kota Rio de Janeiro, Brasil. Patung Yesus ini memiliki ketinggian sekitar 38 meter dan memerlukan 5 tahun untuk menyelesaikannya.  Patung Christ the Redeemer atau Patung Kristus Penebus ini diresmikan pada tanggal 12 Oktober 1931 dan merupakan salah satu dari 5 monumen terbaik di dunia ini. Tangan Patung yang terbuka sebagai tanda kehangatan penduduk Brasil dalam menerima para pendatang ataupun wisatawan.</string>
+</resources>
